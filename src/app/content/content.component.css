@@ -3,7 +3,6 @@
     box-sizing: border-box;
     -webkit-font-smoothing: antialiased;
   }
-
   
   body {
     font-family: Roboto, Arial;
@@ -153,24 +152,3 @@
     width: 16%;
   }
   
-  #image1 {
-    float: left;
-  }
-
-  #heading {
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 40px;
-    text-align: left;
-    color: blue;
-  }
-
-  #header {
-    background: #f0f8ff;
-    height: 125px;
-    text-align: center;
-  }
-
-  #Search {
-    float: left;
-    text-align: left;
-  }
